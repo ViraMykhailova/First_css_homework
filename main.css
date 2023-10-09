@@ -1,0 +1,32 @@
+h1 {
+    color:blueviolet;
+}
+.selectorsTypes {
+    color:sienna;
+}
+#selectorsTypes span {
+    color:maroon;
+}
+.selectorsTypes .simple {
+    color:blue
+}
+a[href*='selectors'] {
+  color: lightgreen;
+}
+a:hover {
+  color:darkorange;
+}
+#elementSelector h2 {
+    color: crimson;
+}
+div p {
+    color:darkgreen;
+}
+#idSelector span {
+    color:darkred;
+    font-weight:bold;
+}
+#idSelector h2,
+#classSelector h2 {
+    color:darkorange
+}
